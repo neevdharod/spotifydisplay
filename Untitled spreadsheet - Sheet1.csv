@@ -1,0 +1,19 @@
+Qty,Item,Link,Suggested product type / variant,Cost (USD)
+1,ESP32 development board,https://www.aliexpress.us/item/1005011741328732.html,"Regular ESP32-WROOM-32 / ESP32-WROOM-32S, USB-C, pre-soldered headers if available. Avoid C3/S3.",$7.48
+1,Display module,https://www.aliexpress.com/wholesale?SearchText=1.8+ST7735+SPI+128x160+display,1.8in ST7735 SPI 128x160 TFT. Prefer a board with header pins included or pre-soldered.,$9.95
+1,I2S DAC board,https://alitools.io/en/showcase/pcm5102-pcm5102a-dac-sound-card-board-phat-3-5mm-stereo-jack-24-bits-digital-audio-module-for-raspberry-pi-beyond-32828177686,PCM5102A line-out DAC with 3.5mm jack. Expect to solder headers or wires.,$1.33
+1,Battery,https://www.adafruit.com/product/258,3.7V 1200mAh 1-cell LiPo with JST-PH 2-pin connector.,$9.95
+1,Charge/boost board,https://www.aliexpress.com/wholesale?SearchText=TP4056+USB-C+MT3608+5V+boost,1-cell LiPo charger plus 5V boost solution. Cheapest path is TP4056 USB-C charger + MT3608 boost or a combined 1S charger/boost module.,$2.75
+1,Switch breakout set,https://treedix.com/products/treedix-9pcs-key-switch-breakout-prototype-pcb-board-compatible-with-cherry-mx,Choose the switch breakout board option; keycap variant if you want included caps.,$14.99
+1,Mechanical switch pack,https://www.walmart.com/ip/YIEMEEN-Outemu-Switches-Mechanical-Keyboard-Switch-3Pin-RGB-Dustproof-Linear-Tactile-Switch-Set-of-10PCS-110PCS/17603001500,"10-pack, 3-pin Outemu-style switches. You will use 3.",$8.34
+1,Aux extension cable,https://www.aliexpress.com/wholesale?SearchText=3.5mm+male+to+female+audio+extension+cable,3.5mm TRS male-to-female audio extension cable.,$7.99
+1,Jumper wire kit,https://www.aliexpress.com/wholesale?SearchText=Dupont+jumper+wire+kit+120pcs,"120-piece Dupont kit with M-M, M-F, and F-F jumpers.",$6.59
+1,Hookup wire,https://www.aliexpress.com/wholesale?SearchText=26AWG+silicone+hookup+wire,"26AWG silicone hookup wire, multicolor kit.",$11.99
+1,Pinecil soldering iron,https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/,Pinecil V2.,$25.99
+1,Heat-set insert tip kit,https://pine64.com/product/pinecil-threaded-insert-tips-set-and-adapter/,"Pinecil threaded insert tips + adapter, includes M3 tip.",$14.99
+1,Soldering iron stand,https://pine64.com/product/pinecil-portable-mini-stand/,Pinecil portable mini stand.,$1.99
+1,Pinecil cable,https://pine64.com/product-category/pinecil/,"USB-C to USB-C silicone power cable, 1m or 1.5m.",$3.49
+1,Solder wire,https://www.amazon.com/SYOKO-Rosin-Solder-Electrical-Soldering/dp/B0C1YJ8GSC,"60/40 rosin-core solder, around 0.6mm.",$7.99
+1,Heat-set inserts,https://www.aliexpress.com/wholesale?SearchText=M3+heat+set+inserts+for+3d+printing,"M3 brass heat-set inserts, around 100 pcs.",$8.99
+1,M3 screw assortment,https://www.aliexpress.com/wholesale?SearchText=M3+screw+assortment+kit,M3 assortment kit. Likely use M3x6 to M3x10 after test print.,$10.39
+,TOTAL,,,$129.48
