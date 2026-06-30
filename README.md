@@ -20,4 +20,19 @@ Onshape Link: https://cad.onshape.com/documents/ba01040e3d5c2cbe82ae8942/w/2d769
 <img src="https://cdn.hackclub.com/019e8628-837b-74fd-b0cf-1555f98e51a3/Screenshot%202026-06-01%207.27.19%20PM.png" alt="image"/>
 Video: https://drive.google.com/file/d/1gVNOMFS0OPCMV0NO76RTFdyZRjD5T8MW/view?usp=sharing
 
+# Why/How
 
+I made this project because I believed this was a great starting project to get into the world of electronics. It only requires simple CAD, soldering, and no PCB. Additionally, I expanded on the idea to add new components to complicate things a little to give me more of a challenge.
+
+I will create this through these steps:
+1. buy the parts
+2. Connect the electronics together, solder as less as possible, and create a usable design
+3. Use Spotify API and library to create a simple code to make the functionality
+4. Test features in a Car and test bluetooth
+5. Double check CAD and then print
+6. Put the electronics in the bottom plate and use heated inserts into the printed CAD piece
+7. Screw the remaining items in and that is the final project!
+
+# Challenges
+
+I think one major challenge I will have is the soldering, as I have not soldered before so it might cause me some issues.
