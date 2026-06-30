@@ -1,4 +1,4 @@
-# Custom Spotify Display for Car AUX
+# Spotify Display
 This device connects to my phone via bluetooth, then has a display displaying the current song, has buttons on top to change settings, and has an output that goes through the car's AUX allowing the audio to be throughout the car.
 
 # CAD
@@ -18,7 +18,7 @@ Onshape Link: https://cad.onshape.com/documents/ba01040e3d5c2cbe82ae8942/w/2d769
 
 # Electronic Schematic
 <img src="https://cdn.hackclub.com/019e8628-837b-74fd-b0cf-1555f98e51a3/Screenshot%202026-06-01%207.27.19%20PM.png" alt="image"/>
-Video: https://drive.google.com/file/d/1gVNOMFS0OPCMV0NO76RTFdyZRjD5T8MW/view?usp=sharing
+Video: https://youtu.be/mz7IQHwh2xk
 
 # Why/How
 
